@@ -27,3 +27,5 @@ This is a discontinued discord bot list. I still maintain it occasionally, so fe
  - Cleanup routes
  - Cleanup frontend JS
  - Fix multiple bot owners being buggy
+
+[![Run on Repl.it](https://repl.it/badge/github/Sank6/Discord-Bot-List)](https://repl.it/github/Sank6/Discord-Bot-List)
